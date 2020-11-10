@@ -1,2 +1,2 @@
 # githubTest1
-# How is it going?
+How is it going?
